@@ -1,3 +1,9 @@
+/*
+@author: Tushar Nitave
+Date: June 25, 2020
+Title: Interfaces in Go
+*/
+
 package main
 
 import (
